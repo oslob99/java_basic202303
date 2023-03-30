@@ -7,7 +7,11 @@ public class Singer {
 
     // 매개변수가 없는 생성자를 기본 생성자
     // 클래스안에서 생성자가 하나도 없을 경우 자동 생성
-    public Singer() {
+    public Singer(int c) {
+        int a = 10;
+    }
 
+    void hello(){
+        double g = 2.2;
     }
 }
