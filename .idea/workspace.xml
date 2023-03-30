@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8f5df2-da78-4c4f-9663-f247ffce5676" name="Changes" comment="3/30 OOP 생성자까지2">
+    <list default="true" id="2c8f5df2-da78-4c4f-9663-f247ffce5676" name="Changes" comment="3/30 필드와 변수">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04/DancerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04/DancerMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680140143733</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="3/30 필드와 변수">
+      <created>1680140871046</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680140871046</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -118,7 +124,8 @@
     <MESSAGE value="3/29 2차원배열" />
     <MESSAGE value="3/30 OOP 생성자까지" />
     <MESSAGE value="3/30 OOP 생성자까지2" />
-    <option name="LAST_COMMIT_MESSAGE" value="3/30 OOP 생성자까지2" />
+    <MESSAGE value="3/30 필드와 변수" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/30 필드와 변수" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
