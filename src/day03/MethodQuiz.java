@@ -61,11 +61,11 @@ public class MethodQuiz {
         printFoods();
 
 
-        boolean flag = include("파스타"); // 파스타 발견시 true 리턴
-        boolean flag2 = include("양념치킨"); // 양념치킨 미발견시 false 리턴
-
-        insert(3, "파인애플"); // 3번 인덱스에 파인애플 삽입
-        modify(2, "닭갈비");  // 2번 인덱스 데이터 닭갈비로 수정
+//        boolean flag = include("파스타"); // 파스타 발견시 true 리턴
+//        boolean flag2 = include("양념치킨"); // 양념치킨 미발견시 false 리턴
+//
+//        insert(3, "파인애플"); // 3번 인덱스에 파인애플 삽입
+//        modify(2, "닭갈비");  // 2번 인덱스 데이터 닭갈비로 수정
         //clear();  // foods배열 모든 데이터 삭제
 
 
