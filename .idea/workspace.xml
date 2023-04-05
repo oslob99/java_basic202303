@@ -6,12 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2c8f5df2-da78-4c4f-9663-f247ffce5676" name="Changes" comment="4/3 다형성 기초 car">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07/inherit/Mage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07/inherit/Mage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07/inherit/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07/inherit/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07/inherit/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07/inherit/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08/poly/car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day08/poly/car/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08/poly/car/CarShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day08/poly/car/CarShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08/poly/car/Mustang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day08/poly/car/Mustang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04/array/StringList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04/array/StringList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day07/static_/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07/static_/Utility.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -61,7 +58,7 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.completion"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.색 구성표 글꼴"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -230,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680655969623</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="4/3 다형성 기초 car">
+      <created>1680663293519</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1680663293519</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,6 +277,7 @@
     <MESSAGE value="4/2 로또만들기" />
     <MESSAGE value="4/3 로또 확인해보기" />
     <MESSAGE value="4/3 다형성 기초 컴퓨터" />
+    <MESSAGE value="4/3 다형성 기초2" />
     <MESSAGE value="4/3 다형성 기초 car" />
     <option name="LAST_COMMIT_MESSAGE" value="4/3 다형성 기초 car" />
   </component>

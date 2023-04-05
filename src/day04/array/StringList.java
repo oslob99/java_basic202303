@@ -7,11 +7,11 @@ import java.util.Arrays;
 public class StringList {
 
     // 필드
-    String[] sArr;
+    private String[] sArr;
 
     // 생성자
 
-    StringList(){
+    public StringList(){
         sArr = new String[0];
     }
     StringList(String ... initData){
@@ -27,7 +27,7 @@ public class StringList {
         return sArr.length;
     }
 
-    void push(String newData){
+    public void push(String newData){
         String[] temp = new String[sArr.length +1];
         for (int i = 0; i < sArr.length; i++) {
             temp[i] = sArr[i];
@@ -36,7 +36,7 @@ public class StringList {
         sArr = temp;
     }
     // 배열 맨 끝 데이터 삭제하는 기능
-    String pop(){
+    public String pop(){
         String deleteTarget = sArr[sArr.length-1];
         String[] temp = new String[sArr.length-1];
         for (int i = 0; i < temp.length; i++) {
@@ -52,13 +52,15 @@ public class StringList {
     }
 
     // 배열이 텅텅비었는지 확인
-    boolean isEmpty(){
+    public boolean isEmpty(){
         return sArr.length == 0;
     }
 
-    void clear(){
+    public void clear(){
         sArr = new String[0];
     }
 
-
+    public String[] getsArr() {
+        return sArr;
+    }
 }
