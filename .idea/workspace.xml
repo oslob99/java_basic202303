@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8f5df2-da78-4c4f-9663-f247ffce5676" name="Changes" comment="4/2 static">
-      <change afterPath="$PROJECT_DIR$/src/day07/static_/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07/static_/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07/static_/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07/static_/Utility.java" afterDir="false" />
+    <list default="true" id="2c8f5df2-da78-4c4f-9663-f247ffce5676" name="Changes" comment="4/2 로또만들기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day07/lotto/LottoSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07/lotto/LottoSimulator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +58,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="애플리케이션.day06.encap.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day05.member.Main" />
       <module name="java_basic" />
@@ -194,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680585613676</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="4/2 로또만들기">
+      <created>1680597629970</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1680597629970</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,7 +238,8 @@
     <MESSAGE value="4/2 상속" />
     <MESSAGE value="4/2 상속2" />
     <MESSAGE value="4/2 static" />
-    <option name="LAST_COMMIT_MESSAGE" value="4/2 static" />
+    <MESSAGE value="4/2 로또만들기" />
+    <option name="LAST_COMMIT_MESSAGE" value="4/2 로또만들기" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
