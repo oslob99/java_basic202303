@@ -27,4 +27,12 @@ public class Player {
         System.out.println("# level: " + this.level);
         System.out.println("# hp: " + this.hp);
     }
+
+    public void damage(){
+        int boltDamage = (int) (Math.random()*6+10);
+        this.hp -= boltDamage;
+        System.out.println(this.nickName+"님이 "+boltDamage+"의 피해를 입었습니다. (남은 체력: "+this.hp+")");
+
+    }
+
 }

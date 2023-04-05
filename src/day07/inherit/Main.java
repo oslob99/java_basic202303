@@ -10,10 +10,14 @@ public class Main {
 
 
 
-        w.showStatus();
-        m.showStatus();
-        h.showStatus();
-
+//        w.showStatus();
+//        m.showStatus();
+//        h.showStatus();
+        Player[] players = {
+                w, m, h, new Warrior("요리왕쿠킹")
+        };
+        m.thunderBolt(w,h,m,new Warrior("토끼곤듀"));
+//        System.out.println(w.hp);
         
     }
 }

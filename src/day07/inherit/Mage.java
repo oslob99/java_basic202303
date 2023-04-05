@@ -11,7 +11,14 @@ public class Mage extends Player{
     }
 
     // 썬더 볼트
-    public void thunderBolt(){
+    public void thunderBolt(Player ... targets){
+        System.out.println("# "+this.nickName+"님 썬더볼트 시전!!!!");
+        System.out.println("==========================");
+
+        for (int i = 0; i < targets.length; i++) {
+            if(super.nickName.equals(targets[i].nickName)) continue;
+            targets[i].damage();
+        }
 
     }
 
