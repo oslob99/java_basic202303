@@ -14,7 +14,7 @@ public class StringList {
     public StringList(){
         sArr = new String[0];
     }
-    StringList(String ... initData){
+    public StringList(String... initData){
         sArr = new String[initData.length];
         for (int i = 0; i < sArr.length; i++) {
             sArr[i] = initData[i];
