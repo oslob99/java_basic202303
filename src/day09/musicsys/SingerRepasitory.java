@@ -23,12 +23,9 @@ public class SingerRepasitory {
     }
 
 
-
-
     public int countSingers(){
         return singers.length;
     }
-
 
 
     public Singer findUser(String singerName) {
