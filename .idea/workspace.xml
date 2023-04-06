@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8f5df2-da78-4c4f-9663-f247ffce5676" name="Changes" comment="4/3 도서관 시스템">
+    <list default="true" id="2c8f5df2-da78-4c4f-9663-f247ffce5676" name="Changes" comment="4/4 final 사용제한자!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +56,7 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.언어 디폴트 값"
+    "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -64,7 +64,7 @@
       <recent name="day08.poly" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.day06.encap.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day05.member.Main" />
       <module name="java_basic" />
@@ -246,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680739694259</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="4/4 final 사용제한자!">
+      <created>1680743052427</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1680743052427</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -292,7 +299,8 @@
     <MESSAGE value="4/3 다형성 기초2" />
     <MESSAGE value="4/3 다형성 기초 car" />
     <MESSAGE value="4/3 도서관 시스템" />
-    <option name="LAST_COMMIT_MESSAGE" value="4/3 도서관 시스템" />
+    <MESSAGE value="4/4 final 사용제한자!" />
+    <option name="LAST_COMMIT_MESSAGE" value="4/4 final 사용제한자!" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
