@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8f5df2-da78-4c4f-9663-f247ffce5676" name="Changes" comment="4/4 가수관리시스템 내가 한것 집가서 해보기" />
+    <list default="true" id="2c8f5df2-da78-4c4f-9663-f247ffce5676" name="Changes" comment="4/4 가수관리시스템 내가 한것 집가서 해보기">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day09/musicsys/SingerRepasitory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day09/musicsys/SingerRepasitory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day09/musicsys/SingerView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day09/musicsys/SingerView.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,12 +54,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/javaa",
+    "last_opened_file_path": "/Users/oslob/java_basic202303",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.색 구성표 글꼴"
   }
 }]]></component>
   <component name="RecentsManager">

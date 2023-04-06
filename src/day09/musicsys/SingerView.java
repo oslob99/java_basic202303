@@ -19,7 +19,10 @@ public class SingerView {
                     System.out.printf("# 아티스트 %s님이 신규 등록되었습니다.",singerName);
                 }else {
                     if(repasitory.findSong(singerName,singName)){
-
+                        System.out.printf("# [%s]은(는) 이미 등록된 노래입니다",singName);
+                    }else {
+                        repasitory.addSong(singerName,singName);
+                        System.out.printf("# %s님의 노래목록에 '%s'곡이 추가되었습니다",singerName,singName);
                     }
                 }
 

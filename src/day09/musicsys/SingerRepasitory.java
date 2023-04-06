@@ -39,12 +39,15 @@ public class SingerRepasitory {
     }
 
 
-    public boolean findSong(String singName, String name) {
+    public boolean findSong(String singerName, String name) {
+        Singer singer = findUser(singerName);
 
-        Singer singer = findUser(singName);
+        return singer.getSings().includes(name);
+    }
 
+    public void addSong(String singerName, String singName) {
+        Singer singer = findUser(singerName);
+        singer.getSings().push(singName);
 
-
-        return false;
     }
 }
