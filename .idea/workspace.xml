@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8f5df2-da78-4c4f-9663-f247ffce5676" name="Changes" comment="4/7 generic">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2c8f5df2-da78-4c4f-9663-f247ffce5676" name="Changes" comment="4/7 ArrayList">
+      <change beforePath="$PROJECT_DIR$/src/day10/collection/list/ListSearchQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/collection/list/ListSearchQuiz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +65,7 @@
       <recent name="day08.poly" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day10.collection.list" />
       <recent name="day10.generic" />
     </key>
   </component>
@@ -299,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680836496121</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="4/7 ArrayList">
+      <created>1680838960122</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1680838960122</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -326,7 +334,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3/29 1차원배열" />
     <MESSAGE value="3/29 2차원배열" />
     <MESSAGE value="3/30 OOP 생성자까지" />
     <MESSAGE value="3/30 OOP 생성자까지2" />
@@ -351,7 +358,8 @@
     <MESSAGE value="4/4 가수관리시스템 내가 한것 집가서 해보기" />
     <MESSAGE value="4/7 Exception" />
     <MESSAGE value="4/7 generic" />
-    <option name="LAST_COMMIT_MESSAGE" value="4/7 generic" />
+    <MESSAGE value="4/7 ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="4/7 ArrayList" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
