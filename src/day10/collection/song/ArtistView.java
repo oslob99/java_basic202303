@@ -1,6 +1,8 @@
 package day10.collection.song;
 
 
+import java.util.Set;
+
 import static day07.static_.Utility.input;
 import static day07.static_.Utility.makeLine;
 
@@ -76,9 +78,11 @@ public class ArtistView {
             // 등록된 경우
             System.out.printf("\n# %s님의 노래목록 \n", artistName);
             makeLine();
-            String[] songList = ar.getSongList(artistName);
-            for (int i = 0; i < songList.length; i++) {
-                System.out.printf("* %d. %s\n", i+1, songList[i]);
+            Set<String> songList = ar.getSongList(artistName);
+            int i = 0;
+            for (String song : songList) {
+                System.out.printf("* %d. %s\n", i+1, song);
+                i++;
             }
         } else {
             System.out.println("\n# 해당 가수는 등록되지 않았습니다.");
