@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8f5df2-da78-4c4f-9663-f247ffce5676" name="Changes" comment="4/7 Set,Map">
-      <change beforePath="$PROJECT_DIR$/src/day10/collection/song/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/collection/song/Artist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/collection/song/ArtistRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/collection/song/ArtistRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/collection/song/ArtistView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/collection/song/ArtistView.java" afterDir="false" />
+    <list default="true" id="2c8f5df2-da78-4c4f-9663-f247ffce5676" name="Changes" comment="4/7 Artist문제 컬렉션쓰기">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -326,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680847708250</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="4/7 Artist문제 컬렉션쓰기">
+      <created>1680849069266</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1680849069266</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -353,7 +358,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3/30 OOP 생성자까지2" />
     <MESSAGE value="3/30 필드와 변수" />
     <MESSAGE value="3/30 패키지, equals" />
     <MESSAGE value="3/30 배열 중급" />
@@ -378,7 +382,8 @@
     <MESSAGE value="4/7 ArrayList" />
     <MESSAGE value="4/7 ArrayList 써보기" />
     <MESSAGE value="4/7 Set,Map" />
-    <option name="LAST_COMMIT_MESSAGE" value="4/7 Set,Map" />
+    <MESSAGE value="4/7 Artist문제 컬렉션쓰기" />
+    <option name="LAST_COMMIT_MESSAGE" value="4/7 Artist문제 컬렉션쓰기" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
