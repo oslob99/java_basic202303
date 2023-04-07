@@ -14,7 +14,7 @@ public class SingerView {
                 System.out.println("\n# 노래 등록을 시작합니다");
                 String singerName = input("- 가수명 : ");
                 String singName = input("- 곡명 : ");
-                if (repasitory.findUser(singerName) != null){
+                if (repasitory.findUser(singerName) == null){
                     repasitory.inputSinger(singerName, singName);
                     System.out.printf("# 아티스트 %s님이 신규 등록되었습니다.",singerName);
                 }else {
