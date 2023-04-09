@@ -17,7 +17,6 @@ public class LoginUser {
         // 회원 계정이 존재하는가?
         if (userAccount.equals(inputAccount)){
             // 패스워드가 일치하는가?
-
             if (userPassword.equals(inputPassword)){
                 // 로그인 성공
                 return "SUCCESS";

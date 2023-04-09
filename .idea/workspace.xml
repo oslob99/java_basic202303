@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8f5df2-da78-4c4f-9663-f247ffce5676" name="Changes" comment="4/7 팔로우" />
+    <list default="true" id="2c8f5df2-da78-4c4f-9663-f247ffce5676" name="Changes" comment="4/4 집에서 해봄">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day08/poly/book/RentStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day08/poly/book/RentStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day10/exception/LoginUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/exception/LoginUser.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +17,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -50,28 +54,21 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/java_basic202303/src/day10/collection/song&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/oslob/java_basic202303&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.언어 디폴트 값&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="day08.poly" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\java_basic202303\src\day10\collection\song" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="day10.collection.list" />
-      <recent name="day10.generic" />
-    </key>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day05.member.Main" />
       <module name="java_basic" />
       <extension name="coverage">
@@ -97,11 +94,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="애플리케이션.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -287,49 +279,7 @@
       <option name="project" value="LOCAL" />
       <updated>1680769472480</updated>
     </task>
-    <task id="LOCAL-00026" summary="4/7 Exception">
-      <created>1680833272990</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1680833272990</updated>
-    </task>
-    <task id="LOCAL-00027" summary="4/7 generic">
-      <created>1680836496121</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1680836496121</updated>
-    </task>
-    <task id="LOCAL-00028" summary="4/7 ArrayList">
-      <created>1680838960122</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1680838960122</updated>
-    </task>
-    <task id="LOCAL-00029" summary="4/7 ArrayList 써보기">
-      <created>1680844101579</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1680844101579</updated>
-    </task>
-    <task id="LOCAL-00030" summary="4/7 Set,Map">
-      <created>1680847708250</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1680847708250</updated>
-    </task>
-    <task id="LOCAL-00031" summary="4/7 Artist문제 컬렉션쓰기">
-      <created>1680849069266</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1680849069266</updated>
-    </task>
-    <option name="localTasksCounter" value="32" />
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -356,6 +306,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="3/28 배열 기초까지" />
+    <MESSAGE value="3/29 1차원배열" />
+    <MESSAGE value="3/29 2차원배열" />
+    <MESSAGE value="3/30 OOP 생성자까지" />
+    <MESSAGE value="3/30 OOP 생성자까지2" />
     <MESSAGE value="3/30 필드와 변수" />
     <MESSAGE value="3/30 패키지, equals" />
     <MESSAGE value="3/30 배열 중급" />
@@ -375,13 +330,7 @@
     <MESSAGE value="4/4 인터페이스" />
     <MESSAGE value="4/4 쉬운 퀴즈" />
     <MESSAGE value="4/4 가수관리시스템 내가 한것 집가서 해보기" />
-    <MESSAGE value="4/7 Exception" />
-    <MESSAGE value="4/7 generic" />
-    <MESSAGE value="4/7 ArrayList" />
-    <MESSAGE value="4/7 ArrayList 써보기" />
-    <MESSAGE value="4/7 Set,Map" />
-    <MESSAGE value="4/7 Artist문제 컬렉션쓰기" />
-    <option name="LAST_COMMIT_MESSAGE" value="4/7 Artist문제 컬렉션쓰기" />
+    <option name="LAST_COMMIT_MESSAGE" value="4/4 가수관리시스템 내가 한것 집가서 해보기" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
