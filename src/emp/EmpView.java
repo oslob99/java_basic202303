@@ -53,6 +53,7 @@ public class EmpView {
                     showAllEmp(empVo);
                     break;
                 case 2:
+                    String[] insertMember = new String[2];
                     break;
                 case 3:
                     break;
