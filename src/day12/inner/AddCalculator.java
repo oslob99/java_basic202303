@@ -1,6 +1,6 @@
-package day12;
+package day12.inner;
 
-public class AddCalculator implements Calculator{
+public class AddCalculator implements Calculator {
 
 
     @Override
