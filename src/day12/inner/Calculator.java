@@ -1,4 +1,4 @@
-package day12;
+package day12.inner;
 
 
 // 계산 기능을 명세

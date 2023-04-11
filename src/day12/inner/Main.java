@@ -1,8 +1,12 @@
-package day12;
+package day12.inner;
+
+import day12.Pet;
+import day12.inner.AddCalculator;
+import day12.inner.Calculator;
 
 public class Main {
 
-    public static class SubCalculator implements Calculator{
+    public static class SubCalculator implements Calculator {
 
         @Override
         public int operate(int n1, int n2) {
